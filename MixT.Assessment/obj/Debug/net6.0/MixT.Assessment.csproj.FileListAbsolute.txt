@@ -1,0 +1,15 @@
+C:\Users\JJ\source\repos\MixT.Assessment\bin\Debug\net6.0\MixT.Assessment.exe
+C:\Users\JJ\source\repos\MixT.Assessment\bin\Debug\net6.0\MixT.Assessment.deps.json
+C:\Users\JJ\source\repos\MixT.Assessment\bin\Debug\net6.0\MixT.Assessment.runtimeconfig.json
+C:\Users\JJ\source\repos\MixT.Assessment\bin\Debug\net6.0\MixT.Assessment.dll
+C:\Users\JJ\source\repos\MixT.Assessment\bin\Debug\net6.0\MixT.Assessment.pdb
+C:\Users\JJ\source\repos\MixT.Assessment\obj\Debug\net6.0\MixT.Assessment.csproj.AssemblyReference.cache
+C:\Users\JJ\source\repos\MixT.Assessment\obj\Debug\net6.0\MixT.Assessment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JJ\source\repos\MixT.Assessment\obj\Debug\net6.0\MixT.Assessment.AssemblyInfoInputs.cache
+C:\Users\JJ\source\repos\MixT.Assessment\obj\Debug\net6.0\MixT.Assessment.AssemblyInfo.cs
+C:\Users\JJ\source\repos\MixT.Assessment\obj\Debug\net6.0\MixT.Assessment.csproj.CoreCompileInputs.cache
+C:\Users\JJ\source\repos\MixT.Assessment\obj\Debug\net6.0\MixT.Assessment.dll
+C:\Users\JJ\source\repos\MixT.Assessment\obj\Debug\net6.0\refint\MixT.Assessment.dll
+C:\Users\JJ\source\repos\MixT.Assessment\obj\Debug\net6.0\MixT.Assessment.pdb
+C:\Users\JJ\source\repos\MixT.Assessment\obj\Debug\net6.0\MixT.Assessment.genruntimeconfig.cache
+C:\Users\JJ\source\repos\MixT.Assessment\obj\Debug\net6.0\ref\MixT.Assessment.dll

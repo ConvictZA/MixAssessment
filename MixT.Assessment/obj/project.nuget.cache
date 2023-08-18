@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "3Pekthgo4hV/9rftyFYAgXxddhyJfhPeZ5zJo/1WkEwRGaioa7jJiMd4Nv6aj829gyomo25T2sk3ewth+fVEgg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JJ\\source\\repos\\MixT.Assessment\\MixT.Assessment.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://teamcity.storefront7.co.za/httpAuth/app/nuget/v1/FeedService.svc/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
